@@ -1,7 +1,8 @@
 name: adadvaasdkopk123
-description: "A new Flutter project."
+description: "adadvaasdkopk123 package"
 version: 0.0.1
-homepage:
+homepage: https://github.com/salah-rashad/adadvaasdkopk123
+repository: https://github.com/salah-rashad/adadvaasdkopk123
 
 environment:
   sdk: ^3.7.2
